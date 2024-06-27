@@ -1,9 +1,9 @@
 {
     "id": "CD160D17",
-    "path": "C:/Users/Awesomemin/Desktop/연구아카이브/Proj.Manager/EconometricsWithR/2.SLR.R",
-    "project_path": "2.SLR.R",
+    "path": "C:/Users/Awesomemin/Desktop/연구아카이브/Proj.Manager/EconometricsWithR/2.Data Handling Practice.R",
+    "project_path": "2.Data Handling Practice.R",
     "type": "r_source",
-    "hash": "0",
+    "hash": "988098136",
     "contents": "",
     "dirty": false,
     "created": 1719386138180.0,
@@ -12,14 +12,16 @@
     "properties": {
         "tempName": "Untitled1",
         "source_window_id": "",
-        "Source": "Source"
+        "Source": "Source",
+        "cursorPosition": "39,0",
+        "scrollLine": "24"
     },
     "folds": "",
-    "lastKnownWriteTime": 1719386156,
+    "lastKnownWriteTime": 1719472573,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1719386156358,
+    "last_content_update": 1719472573957,
     "read_only": false,
     "read_only_alternatives": []
 }

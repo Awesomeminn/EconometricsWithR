@@ -12,7 +12,7 @@ sink("C:\\Users\\UOS\\Desktop\\RCode\\Chap02\\example2_3.txt", append = F)
 #loading data for Example 2.3 (The population of chief executive officers (CEO))
 #209 CEOs for the year 1990.
 
-ceosal1<-read.table("C:\\Users\\UOS\\Desktop\\RCode\\TextDataFiles\\ceosal1.raw", header=F) 
+ceosal1<-read.table("C:/Users/Awesomemin/Desktop/연구아카이브/Proj.Manager/EconometricsWithR/TextDataFiles/ceosal1.raw", header=F) 
 #The <- is a left diamond bracket (<) followed by a minus sign (-). It means ceosal1 data set is assigned to ceosal1.
 # You can use = instead of <-
 #F (T) can be used for FALSE (TRUE)
